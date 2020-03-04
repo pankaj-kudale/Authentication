@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.24.
 
 ## Live Demo
-You can see live demo of this repository [here] (https://stackblitz.com/github/pankaj-kudale/authentication)
+You can see live demo of this repository [here](https://stackblitz.com/github/pankaj-kudale/authentication)
 
 ## Development server
 
